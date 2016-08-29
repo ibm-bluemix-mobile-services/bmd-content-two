@@ -5,6 +5,6 @@
 		"link": "http://bluemix.net",
 		"description" : "Create an app template using mobile"
 	},
-	"image" : "https://raw.githubusercontent.com/mven/CodeEval2/ef8f4ed9f866aded8f1ee73ef42a3bbbfecd926e/blue.png",
-	"icon" : "https://raw.githubusercontent.com/mven/CodeEval2/master/blue-icon.png"
+	"image" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-two/master/blue.png",
+	"icon" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-two/master/blue-icon.png"
 }
