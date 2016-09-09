@@ -1,3 +1,3 @@
-# New App Template
+# Mobile documentation
 
-Choose a template that best matches your use and customize the app using IBM Mobile App Builder. Alternatively, download the code and use it as a starting point.
+Read more about our Bluemix Mobile dashboard and service offerings.
