@@ -2,7 +2,7 @@
 	"action" : {
 		"type": "url",
 		"text" : "Mobile documentation",
-		"link": "https://new-console.ng.bluemix.net/docs/mobile/index.html",
+		"link": "../../docs/mobile/index.html",
 		"description" : "Bluemix Mobile documentation"
 	},
 	"image" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-two/master/blue.png",
