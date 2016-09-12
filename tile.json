@@ -2,7 +2,6 @@
 	"action" : {
 		"type": "url",
 		"text" : "Mobile documentation",
-		"altText" : "Mobile documentation",
 		"link": "../../docs/mobile/index.html",
 		"description" : "Bluemix Mobile documentation"
 	},
