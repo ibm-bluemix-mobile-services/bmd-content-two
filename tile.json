@@ -3,7 +3,9 @@
 		"type": "url",
 		"text" : "Start From a Tutorial",
 		"link": "https://github.com/ibm-bluemix-mobile-services/mobiledashboard-storecatalog-backend",
-		"description" : "Mobile Backend for Bluemix"
+		"description" : "Mobile Backend for Bluemix",
+		"newTab" : true,
+		"altText" : "Start From a Tutorial"
 	},
 	"image" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-two/master/temp_tutorial.png",
 	"icon" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-two/master/temp_tutorial.png"
