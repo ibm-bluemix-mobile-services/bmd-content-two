@@ -1,3 +1,3 @@
-# Mobile documentation
+# Start From a Tutorial
 
-Read more about our Bluemix Mobile dashboard and service offerings.
+Not sure where to start? Get a fully loaded mobile backend tutorial to get started!

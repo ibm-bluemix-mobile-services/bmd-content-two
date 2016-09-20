@@ -1,10 +1,10 @@
 {
 	"action" : {
 		"type": "url",
-		"text" : "Mobile documentation",
-		"link": "../../docs/mobile/index.html",
-		"description" : "Bluemix Mobile documentation"
+		"text" : "Start From a Tutorial",
+		"link": "https://github.com/ibm-bluemix-mobile-services/mobiledashboard-storecatalog-backend",
+		"description" : "Mobile Backend for Bluemix"
 	},
-	"image" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-two/master/blue.png",
-	"icon" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-two/master/blue-icon.png"
+	"image" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-two/master/temp_tutorial.png",
+	"icon" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-two/master/temp_tutorial.png"
 }
