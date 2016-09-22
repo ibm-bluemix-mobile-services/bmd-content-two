@@ -7,6 +7,6 @@
 		"newTab" : true,
 		"altText" : "Start From a Tutorial"
 	},
-	"image" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-two/master/temp_tutorial.png",
-	"icon" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-two/master/temp_tutorial.png"
+	"image" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-two/master/tutorial.png",
+	"icon" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-two/master/tutorial.png"
 }
