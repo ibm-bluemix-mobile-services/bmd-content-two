@@ -2,8 +2,8 @@
 	"action" : {
 		"type": "url",
 		"text" : "Start From a Tutorial",
-		"link": "https://github.com/ibm-bluemix-mobile-services/mobiledashboard-storecatalog-backend",
-		"description" : "Mobile Backend for Bluemix",
+		"link": "http://www.ibm.com/developerworks/library/mo-mobile-application-security-bluemix-mobile-services-1-trs/",
+		"description" : "Start From a Tutorial",
 		"newTab" : true,
 		"altText" : "Start From a Tutorial"
 	},
