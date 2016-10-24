@@ -2,7 +2,7 @@
 	"action" : {
 		"type": "url",
 		"text" : "Start From a Tutorial",
-		"link": "https://www.ibm.com/blogs/bluemix/2016/10/rapid-dev-with-mobile-code-starters/",
+		"link": "../../docs/mobile/tutorial.html",
 		"description" : "Start From a Tutorial",
 		"newTab" : true,
 		"altText" : "Start From a Tutorial"
