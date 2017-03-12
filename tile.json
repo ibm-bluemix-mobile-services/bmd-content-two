@@ -2,7 +2,7 @@
 	"action" : {
 		"type" : "url",
 		"text" : "Learn More",
-		"link" : "../../docs/cloudnative/devex.html",
+		"link" : "https://www.ibm.com/blogs/bluemix/2016/10/next-gen-bluemix-mobile-dashboard/",
 		"description" : "Learn More",
 		"newTab" : true,
 		"altText" : "Learn More"
