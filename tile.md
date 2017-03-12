@@ -1,3 +1,3 @@
-# Start From a Tutorial
+# Bluemix Developer Console
 
-Not sure where to start? View a fully loaded mobile backend tutorial to get started!
+Create Bluemix projects and download starter code through a point-and-click interface.
