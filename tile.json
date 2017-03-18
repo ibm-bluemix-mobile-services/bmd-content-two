@@ -1,12 +1,21 @@
 {
 	"action" : {
-		"type": "url",
-		"text" : "Start From a Tutorial",
-		"link": "../../docs/mobile/tutorial.html",
-		"description" : "Start From a Tutorial",
+		"type" : "url",
+		"text" : "Learn More",
+		"link" : "https://www.ibm.com/blogs/bluemix/2017/03/introducing-bluemix-developer-console/",
+		"description" : "Learn More",
 		"newTab" : true,
-		"altText" : "Start From a Tutorial"
+		"altText" : "Learn More"
 	},
-	"image" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-two/tutorial.svg",
-	"icon" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-two/tutorial.svg"
+	"alternateAction" : {
+		"type" : "url",
+		"text" : "Get Started",
+		"link" : "../create-project",
+		"description" : "Get Started",
+		"newTab" : false,
+		"altText" : "Get Started"
+	},
+	"image" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-one/Subheros-01.svg",
+	"icon" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-one/Subheros-01.svg",
+	"tag" : "Dev Tool"
 }
