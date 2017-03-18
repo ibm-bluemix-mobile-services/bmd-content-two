@@ -2,7 +2,7 @@
 	"action" : {
 		"type" : "url",
 		"text" : "Learn More",
-		"link" : "https://www.ibm.com/blogs/bluemix/2016/10/next-gen-bluemix-mobile-dashboard/",
+		"link" : "https://www.ibm.com/blogs/bluemix/2017/03/introducing-bluemix-developer-console/",
 		"description" : "Learn More",
 		"newTab" : true,
 		"altText" : "Learn More"
