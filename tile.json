@@ -12,7 +12,7 @@
 		"text" : "Get Started",
 		"link" : "../create-project",
 		"description" : "Get Started",
-		"newTab" : false,
+		"newTab" : true,
 		"altText" : "Get Started"
 	},
 	"image" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-one/Subheros-01.svg",
